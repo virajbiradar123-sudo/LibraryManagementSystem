@@ -1,0 +1,11 @@
+# Compiled Java files
+*.class
+target/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# IDE files
+.settings/
